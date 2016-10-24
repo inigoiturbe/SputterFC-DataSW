@@ -157,7 +157,7 @@ namespace SputterFCDataTransfer
                 FirstLabel_Combo.SelectedIndex = 0;
                 LastLabel_Combo.SelectedIndex = 0;
                 FirstLabel_Num.Enabled = false;
-                LastLabel_Num.Enabled = false;
+                LastLabel_Num.Enabled = true;
             }
 
         }
